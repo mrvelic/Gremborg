@@ -1,0 +1,11 @@
+{
+	"server": "irc.freenode.net",
+	"port": 6667,
+	"nick": "gremborg",
+	"lines_file": "lines.txt",
+	"min_context_depth": 5,
+	"max_context_depth": 15,
+	"save_interval": 30,
+	"channels": ["#gremborg"],
+	"admins": ["mrvelic"]
+}
